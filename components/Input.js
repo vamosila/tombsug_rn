@@ -1,5 +1,14 @@
-import { StyleSheet, Text, TextInput, View } from "react-native"
+/*
+* File: Input.js
+* Author: Vámosi László Ádám
+* Copyright: 2026, Vámosi László Ádám
+* Group: Szoft II-N
+* Date: 2026-03-11
+* Github: https://github.com/vamosilaszloadam/
+* Licenc: MIT
+*/
 
+import { StyleSheet, Text, TextInput, View } from "react-native"
 
 function Input({label, value, onChangeText}) {
     return(
