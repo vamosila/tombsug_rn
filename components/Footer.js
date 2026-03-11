@@ -12,9 +12,11 @@ const styles = StyleSheet.create({
     container: {
         backgroundColor: 'gold',
         width: '100%',
+        padding: 10,
     },
     text: {
         textAlign: 'center',
+        fontSize: 24,
     },
 })
 
